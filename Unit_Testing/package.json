@@ -1,0 +1,14 @@
+{
+  "name": "leap-check",
+  "version": "1.0.0",
+  "description": "function that checks if a year is leap",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pablo Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
